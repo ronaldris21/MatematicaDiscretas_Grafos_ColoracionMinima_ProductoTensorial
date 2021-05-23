@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1620268299 source:c:\users\ronald\desktop\new folder\mad_grafos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621275250 source:c:\users\ronald\desktop\new folder\mad_grafos_productotensorial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
